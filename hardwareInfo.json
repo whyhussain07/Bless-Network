@@ -1,0 +1,73 @@
+{
+  "12D3KooWKmHM3ZKLAM5poACbxp6U5Rrr7DWYGc2RyUAt8A2i4C58": {
+    "cpuArchitecture": "x86_64",
+    "cpuModel": "Intel Core i7-10710U",
+    "cpuFeatures": [
+      "mmx",
+      "sse",
+      "sse2",
+      "sse3"
+    ],
+    "numOfProcessors": 6,
+    "totalMemory": 90194313216
+  },
+  "12D3KooWLoEvHUrWKgNfQbtkQqChThitNUGA1w74As8SVtFiQSta": {
+    "cpuArchitecture": "x86_64",
+    "cpuModel": "AMD Ryzen 5 4600H",
+    "cpuFeatures": [
+      "mmx",
+      "sse",
+      "sse2",
+      "sse3",
+      "ssse3",
+      "sse4_1",
+      "sse4_2"
+    ],
+    "numOfProcessors": 10,
+    "totalMemory": 112742891520
+  },
+  "12D3KooWMmxwAtPhmcBGYxoN3KakVhJYmDYz6wgicFktptD7enia": {
+    "cpuArchitecture": "x86_64",
+    "cpuModel": "Intel Core i5-9400",
+    "cpuFeatures": [
+      "mmx",
+      "sse",
+      "sse2",
+      "sse3",
+      "ssse3",
+      "sse4_1"
+    ],
+    "numOfProcessors": 8,
+    "totalMemory": 123480309760
+  },
+  "12D3KooWLU7Ejav1wfSqUNdG4NbzxEygU76t7k2pdSpG6ZGNSJ9r": {
+    "cpuArchitecture": "x86_64",
+    "cpuModel": "Intel Core i3-8300",
+    "cpuFeatures": [
+      "mmx",
+      "sse",
+      "sse2"
+    ],
+    "numOfProcessors": 5,
+    "totalMemory": 111669149696
+  },
+  "12D3KooWCvKj7hw43keSWducdxZMzUgDb7Ehxkjtqq28a8uGrDDr": {
+    "cpuArchitecture": "x86_64",
+    "cpuModel": "AMD Ryzen 7 2700",
+    "cpuFeatures": [
+      "mmx",
+      "sse"
+    ],
+    "numOfProcessors": 5,
+    "totalMemory": 18253611008
+  },
+  "12D3KooWNn2k1yBxo8XuJch1BdECPrZBwpQsAAhaZCg2sYKbMM2j": {
+    "cpuArchitecture": "x86_64",
+    "cpuModel": "AMD Ryzen 9 5900X",
+    "cpuFeatures": [
+      "mmx"
+    ],
+    "numOfProcessors": 5,
+    "totalMemory": 119185342464
+  }
+}
