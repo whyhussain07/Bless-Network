@@ -29,4 +29,44 @@ module.exports = [
             { nodeId: '12D3KooWRpwoxDJPvKZY3yd2DSjoFvwy4u5Zaj1g3WaFQU6JP7nK', hardwareId: 'e66ba2e8471dd32d4540ef2fc6a30b1f76de492764d518062f254ebb384139ad', proxy: 'http://va3mvdoxib4vz1v-country-ie:egg0dwgz7m7mvwv@rp.proxyscrape.com:6060' },
         ]
     },
+    {
+        usertoken: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2Nzg0NzcwM2M5NzRmYTFjYWI4YzdmNWEiLCJwdWJsaWNBZGRyZXNzIjoiNGdkTmtXandmQmtRSlhmZ2FXZXRrbjZYS1FXNTFMNnA5SGlFeTJSdldSYlYiLCJ3YWxsZXRUeXBlIjoic29sYW5hIiwiaWF0IjoxNzM2NzM0NDY4LCJleHAiOjE3NjgyOTIwNjh9.OLXsB-F7RKG_mFO_XnUpbqC4gFkF7DCSr08SkK8rpCk',
+        nodes: [
+            { nodeId: '12D3KooWB9u6wKJLC9qQgnw7WnsdwTx9pP9ESVtb6amwwhLH9E1H', hardwareId: '6ba6dc0e215dd82ef5fdaea0f34ad4b63d6248daa7d630156294ac92cba02108', proxy: 'http://va3mvdoxib4vz1v-country-ae:egg0dwgz7m7mvwv@rp.proxyscrape.com:6060' },
+            { nodeId: '12D3KooWKRGB5gq6iM6rAtWxfey2Rq7gCrw7ChT1Xb3eMjTfBXxa', hardwareId: '8c3891820ce2b59dd201d6b2e5924d4e6d59d50e31ba2521f9998e4718e6ee81', proxy: 'http://va3mvdoxib4vz1v-country-ch:egg0dwgz7m7mvwv@rp.proxyscrape.com:6060' },
+            { nodeId: '12D3KooWCdix2S9EQvh97MqTiXaMCVBKDwLq4XrnPZdpDwpJKvZP', hardwareId: '0143be07ba54e5cf8f375d8f1b80b6c2cc85e8d11d5d9896972f45922760a1f1', proxy: 'http://va3mvdoxib4vz1v-country-sg:egg0dwgz7m7mvwv@rp.proxyscrape.com:6060' },
+            { nodeId: '12D3KooWB4mayNYKhjTPdyvom9LV3g7uUxJ3WMzsahoS3FiMZXyW', hardwareId: '21ce720d418cfe6fcb5ea7463c29fe9ab14e58d803b1d86771e5ead2f342883b', proxy: 'http://va3mvdoxib4vz1v-country-gb:egg0dwgz7m7mvwv@rp.proxyscrape.com:6060' },
+            { nodeId: '12D3KooWFXJ89zNTuUGts1UzdxLjtmJyeGKMhwih6hd9RXuqu6XA', hardwareId: '99ae597cdb347b2afba1827c1f2da87fdaeeb6c7c07faac469c6eb2fb45b8e7f', proxy: 'http://va3mvdoxib4vz1v-country-it:egg0dwgz7m7mvwv@rp.proxyscrape.com:6060' },
+        ]
+    },
+    {
+        usertoken: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2Nzg0NzkzM2M5NzRmYTFjYWJjOGZhNWQiLCJwdWJsaWNBZGRyZXNzIjoiRWZUeHg3cEFoVFRNNnU1eW1KSHJGRWpIVG5rUFp1a3V1Vms3enRjRmJBaVoiLCJ3YWxsZXRUeXBlIjoic29sYW5hIiwiaWF0IjoxNzM2NzM1MDMyLCJleHAiOjE3NjgyOTI2MzJ9.eiZIafa98xgvMRqtpkacedFVHYM1xVBWa0CJSLRGHdk',
+        nodes: [
+            { nodeId: '12D3KooWCdGRBZGGk2Q1ye2rqh5kDfTAq4UUdNkheQcezHv8MvmZ', hardwareId: '49a9bbcf4be3874590106b7494c8670e176236fd59d09d448a3fb84ac44c1d5d', proxy: 'http://va3mvdoxib4vz1v-country-no:egg0dwgz7m7mvwv@rp.proxyscrape.com:6060' },
+            { nodeId: '12D3KooWGvQVn1uP3nN1KzHSw6WNYe1yZE9ygi6BaEkt51cDpQdN', hardwareId: '3288d5a300b4fbca486c873ba0fd1462ef64fa58aef722b3698eb8ab137df6bd', proxy: 'http://va3mvdoxib4vz1v-country-es:egg0dwgz7m7mvwv@rp.proxyscrape.com:6060' },
+            { nodeId: '12D3KooWH2da8B6VuRsVfaSJXYr7dexHejbc8kJLZypZvcEfaiZu', hardwareId: 'f65372f4454b9c6efeb551e44fed37c6426a9fc2ae60690f6a7c2a14a5dd7158', proxy: 'http://va3mvdoxib4vz1v-country-pt:egg0dwgz7m7mvwv@rp.proxyscrape.com:6060' },
+            { nodeId: '12D3KooWRH6ZY1v6jrF9rwhGx6abZ12awfw39KBBPFcfKHMhtsXp', hardwareId: 'fd41b61ff3a00d814c262a6353247ebef18bb753fb5b009849aae22b9f71e138', proxy: 'http://va3mvdoxib4vz1v-country-lu:egg0dwgz7m7mvwv@rp.proxyscrape.com:6060' },
+            { nodeId: '12D3KooWQTGU46i5ptN5bXj7m1e3mi7fMP3tBuQ1C8AwHCbJQdKL', hardwareId: 'f7fe852b91eeb2736d2c58ea75148a6ca8e6ae1ea3ff452d8d655e63e6618740', proxy: 'http://va3mvdoxib4vz1v-country-is:egg0dwgz7m7mvwv@rp.proxyscrape.com:6060' },
+        ]
+    },
+    {
+        usertoken: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2Nzg0N2IwM2M5NzRmYTFjYWJmZGJjMzAiLCJwdWJsaWNBZGRyZXNzIjoiNDFub1huRUJqaUQ5bU1mcHY4b1VoanJveUZLQTlucVVuOUthVDd1RzNveGciLCJ3YWxsZXRUeXBlIjoic29sYW5hIiwiaWF0IjoxNzM2NzM1NDkzLCJleHAiOjE3NjgyOTMwOTN9.4S6jeglIIbFEI7LxyICks965ccYLFYz0uJytiEpcWlA',
+        nodes: [
+            { nodeId: '12D3KooWEMg6zBich6nVN61hyAL13L1jJMfUb9iFCj83nUnJ6V3K', hardwareId: 'f5ada93b82142c9d58b834eca169bb0f8abf28ea72a79b331c52c27b62d55991', proxy: 'http://va3mvdoxib4vz1v-country-is:egg0dwgz7m7mvwv@rp.proxyscrape.com:6060' },
+            { nodeId: '12D3KooWAQE268Qo44he6NRGubMA7bDFgSmmS2pJBkPHKm6RnazU', hardwareId: 'a685dc4b2b7af52bfa1c3c8d48b1ea998ab0589c27a3b379083bbe3e66898fc8', proxy: 'http://va3mvdoxib4vz1v-country-lu:egg0dwgz7m7mvwv@rp.proxyscrape.com:6060' },
+            { nodeId: '12D3KooWPJ2XR9JLJJd6w48ismdDAzZsgWSKHSYPJ99Ug4kqNsp5', hardwareId: '25aa80fd93bd089a8897f3cb67c1e278e3078b71c9f4e0ca5d06687908b7558c', proxy: 'http://va3mvdoxib4vz1v-country-pt:egg0dwgz7m7mvwv@rp.proxyscrape.com:6060' },
+            { nodeId: '12D3KooWB2Qy24kc8PTudSp7Tj63vqjJT2x7E8xoYzrTRPTRANSC', hardwareId: 'fbfd602f76f917ca6beef64a1a3b65bd013b40bb15304ef419a7fc40f250099f', proxy: 'http://va3mvdoxib4vz1v-country-es:egg0dwgz7m7mvwv@rp.proxyscrape.com:6060' },
+            { nodeId: '12D3KooWADMkpHmWGvbjJ8Act3HPzJXcfGEFsaK4CxWHaaEz2hai', hardwareId: '4bc032712eb98eeca0d7c9fa9c6f0c7dc3d0542c0f64ea0948e0a50709ac770c', proxy: 'http://va3mvdoxib4vz1v-country-no:egg0dwgz7m7mvwv@rp.proxyscrape.com:6060' },
+        ]
+    },
+    {
+        usertoken: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2Nzg0N2NkNWM5NzRmYTFjYWIzMjQxMWYiLCJwdWJsaWNBZGRyZXNzIjoiQ1ZvVlF3NEhoRVdjaDZIMUthWVJwZ1V6N3FTWDdXM29XVWd1NnVrclZablEiLCJ3YWxsZXRUeXBlIjoic29sYW5hIiwiaWF0IjoxNzM2NzM1OTU5LCJleHAiOjE3NjgyOTM1NTl9.pBgSurjNY-X9bAsUJ7wDRYTjAx5SnMEXtG3Z-iuBESY',
+        nodes: [
+            { nodeId: '12D3KooWMGSQF93srafEoU8noYM5jbNsmpVMrhcLH7DEXjeNN3ZM', hardwareId: '8cadba70b46b6c2c071095e610d73606a13560e13a5a7b3c5c7d238ff7bb3f9d', proxy: 'http://va3mvdoxib4vz1v-country-it:egg0dwgz7m7mvwv@rp.proxyscrape.com:6060' },
+            { nodeId: '12D3KooWLRnKEQoLNmqjTHN3YuFh51uSNuRrXMaXPCExkF8ETHR7', hardwareId: 'c3f88d6e92e6f0edd7c0fb3cb774ca2f19012189f95ee9bf02745c03ace5841d', proxy: 'http://va3mvdoxib4vz1v-country-gb:egg0dwgz7m7mvwv@rp.proxyscrape.com:6060' },
+            { nodeId: '12D3KooWJGtr7pYP17MGzgp2uWxh7cwD5g8D3cK6QGadrpawStpC', hardwareId: 'd75d341e9fe5cac1351a068229dfa73f03399b7fec7847fa0c1727bf81b04820', proxy: 'http://va3mvdoxib4vz1v-country-sg:egg0dwgz7m7mvwv@rp.proxyscrape.com:6060' },
+            { nodeId: '12D3KooWP3FrYsbNc32pNw8Ni65BitL1sYLpyTs9W1v6nJCyXFde', hardwareId: '82d7f17136ea9ef6e108f152d72ada433eb33c3e8844f40bb087b67636001db8', proxy: 'http://va3mvdoxib4vz1v-country-ch:egg0dwgz7m7mvwv@rp.proxyscrape.com:6060' },
+            { nodeId: '12D3KooWRd2XXNkdw6pTVc57jXrsxu6V6C1UhoPckSx5KPBxizBL', hardwareId: 'a957c99f829e96d8d25303207c2251442f062cbac3199d134af7ac27312a1a94', proxy: 'http://va3mvdoxib4vz1v-country-ae:egg0dwgz7m7mvwv@rp.proxyscrape.com:6060' },
+        ]
+    },
 ];
