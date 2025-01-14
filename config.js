@@ -20,7 +20,7 @@ module.exports = [
         ]
     },
     {
-        usertoken: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2Nzg0NzM5OWM5NzRmYTFjYWIyMmY4MzEiLCJwdWJsaWNBZGRyZXNzIjoiRjRkaDloanhoaWN5RmRVWktOVWdyUmh6d0hpOEdIbmpGUGpRVkM4NTZiaUQiLCJ3YWxsZXRUeXBlIjoic29sYW5hIiwiaWF0IjoxNzM2NzMzNTk1LCJleHAiOjE3NjgyOTExOTV9.mdzcbYM9bHrNfpMuCicqF6HVI_HIttZy6DWAq3IaEN0',
+        usertoken: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2Nzg0MjJhMmM5NzRmYTFjYWI2N2JkMGIiLCJwdWJsaWNBZGRyZXNzIjoiOWlDZnVyaEtRVEhvaUhlZ3J4MjFiN2pScGRlY2M1YlRhMjZxVGVjTDNkeDUiLCJ3YWxsZXRUeXBlIjoic29sYW5hIiwiaWF0IjoxNzM2Nzk3NTQwLCJleHAiOjE3NjgzNTUxNDB9.DNfUMxAGu_X6UEnNBBuxzEsoQ7PM4TjACxp694B5oYI',
         nodes: [
             { nodeId: '12D3KooWFAGZozthKYini4mARXA8XkSM23g9bLBuSwafjSVLxXAL', hardwareId: 'af4ae2a12c15cc13f5b8a0585904f121b56a7efadd4f5627ef9b33cfec7a3ec2', proxy: 'http://va3mvdoxib4vz1v-country-fi:egg0dwgz7m7mvwv@rp.proxyscrape.com:6060' },
             { nodeId: '12D3KooWMVm6GDvt71x1Z6SS3tWon1UEFwwEaKQxNGi2iqCkZ685', hardwareId: '2db5c74367c405a1d1038d3346cdfb29ae5bb2f610a570e38258f6ac204af939', proxy: 'http://va3mvdoxib4vz1v-country-fr:egg0dwgz7m7mvwv@rp.proxyscrape.com:6060' },
