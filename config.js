@@ -22,11 +22,11 @@ module.exports = [
     {
         usertoken: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2Nzg0MjJhMmM5NzRmYTFjYWI2N2JkMGIiLCJwdWJsaWNBZGRyZXNzIjoiOWlDZnVyaEtRVEhvaUhlZ3J4MjFiN2pScGRlY2M1YlRhMjZxVGVjTDNkeDUiLCJ3YWxsZXRUeXBlIjoic29sYW5hIiwiaWF0IjoxNzM2Nzk3NTQwLCJleHAiOjE3NjgzNTUxNDB9.DNfUMxAGu_X6UEnNBBuxzEsoQ7PM4TjACxp694B5oYI',
         nodes: [
-            { nodeId: '12D3KooWFAGZozthKYini4mARXA8XkSM23g9bLBuSwafjSVLxXAL', hardwareId: 'ec382ea33e870f22ac04023dde409aa063e4c2ee039527da901259f0fc1f9e7c', proxy: 'http://0fdd62698ee81cc8:RNW78Fm5@res.proxy-sale.com:10010' },
-            { nodeId: '12D3KooWMVm6GDvt71x1Z6SS3tWon1UEFwwEaKQxNGi2iqCkZ685', hardwareId: '1b782adb6c8c95933514e5031dbb534da91e31f8687ba712bad507109bd9d334', proxy: 'http://0fdd62698ee81cc8:RNW78Fm5@res.proxy-sale.com:10011' },
-            { nodeId: '12D3KooWCVnjNnm7S2yfCUUviWmYjVTwWCm9v6YCPNK4374S18aN', hardwareId: '0bd2dc618d116e8e254f312d9447e4b3bb01cf768bfd1b46dbee5ec1e46dfdd3', proxy: 'http://0fdd62698ee81cc8:RNW78Fm5@res.proxy-sale.com:10012' },
-            { nodeId: '12D3KooWAe6ucKGmKFszUYXxTDEhmXnu638d4ACc58jD27d5FFb9', hardwareId: 'c7324aac71c220b14c236c6ba210b5733e81cf6ad50179f01e3099502f5add9c', proxy: 'http://0fdd62698ee81cc8:RNW78Fm5@res.proxy-sale.com:10013' },
-            { nodeId: '12D3KooWRpwoxDJPvKZY3yd2DSjoFvwy4u5Zaj1g3WaFQU6JP7nK', hardwareId: '407f2d0221cc947cffff9b8fd4150b2163107281bbed9007eb234a45c01c3c89', proxy: 'http://0fdd62698ee81cc8:RNW78Fm5@res.proxy-sale.com:10014' },
+            { nodeId: '12D3KooWFAGZozthKYini4mARXA8XkSM23g9bLBuSwafjSVLxXAL', hardwareId: 'ec382ea33e870f22ac04023dde409aa063e4c2ee039527da901259f0fc1f9e7c', proxy: 'http://0fdd62698ee81cc8:RNW78Fm5@res.proxy-sale.com:10044' },
+            { nodeId: '12D3KooWMVm6GDvt71x1Z6SS3tWon1UEFwwEaKQxNGi2iqCkZ685', hardwareId: '1b782adb6c8c95933514e5031dbb534da91e31f8687ba712bad507109bd9d334', proxy: 'http://0fdd62698ee81cc8:RNW78Fm5@res.proxy-sale.com:10045' },
+            { nodeId: '12D3KooWCVnjNnm7S2yfCUUviWmYjVTwWCm9v6YCPNK4374S18aN', hardwareId: '0bd2dc618d116e8e254f312d9447e4b3bb01cf768bfd1b46dbee5ec1e46dfdd3', proxy: 'http://0fdd62698ee81cc8:RNW78Fm5@res.proxy-sale.com:10046' },
+            { nodeId: '12D3KooWAe6ucKGmKFszUYXxTDEhmXnu638d4ACc58jD27d5FFb9', hardwareId: 'c7324aac71c220b14c236c6ba210b5733e81cf6ad50179f01e3099502f5add9c', proxy: 'http://0fdd62698ee81cc8:RNW78Fm5@res.proxy-sale.com:10047' },
+            { nodeId: '12D3KooWRpwoxDJPvKZY3yd2DSjoFvwy4u5Zaj1g3WaFQU6JP7nK', hardwareId: '407f2d0221cc947cffff9b8fd4150b2163107281bbed9007eb234a45c01c3c89', proxy: 'http://0fdd62698ee81cc8:RNW78Fm5@res.proxy-sale.com:10048' },
         ]
     },
     {
